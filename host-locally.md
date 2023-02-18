@@ -13,7 +13,6 @@ _To install XAMPP on your PC, follow these steps:_
 - If you see the XAMPP welcome page, it means that XAMPP has been installed successfully on your computer.
 
 ## Step 2: Setup Files
-- Click on the [link](https://github.com/aryan-upa/pg-finder-mini/archive/main.zip) to download Project Files.
 - Go to C:\xampp\htdocs
 - Create a folder by 'folder1 (your choice)' name and inside it unzip the file.
 
